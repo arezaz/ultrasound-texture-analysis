@@ -1,8 +1,6 @@
 # UltrasoundTextureAnalysis - Application
 multiple texture analysis methods for ultrasound images in DICOM format
 
-Code has been written in a functioned manner to be able to the functions unaccessible with pcode command.
-
 ## Instructions
 ### Texture Analysis for UltraSound Images
   Input:  
