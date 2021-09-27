@@ -1,5 +1,5 @@
 # Ultrasound Image Texture Analysis
-multiple texture analysis methods for ultrasound images in DICOM format
+multiple texture analysis methods for ultrasound images in DICOM format to detect Kidney issues.
 
 ## Instructions
 ### Texture Analysis for UltraSound Images
