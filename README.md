@@ -1,4 +1,4 @@
-# UltrasoundTextureAnalysis - Application
+# Ultrasound Image Texture Analysis
 multiple texture analysis methods for ultrasound images in DICOM format
 
 ## Instructions
