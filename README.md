@@ -4,7 +4,7 @@ multiple texture analysis methods for ultrasound images in DICOM format.
 ![image](https://user-images.githubusercontent.com/45867828/134837833-ab34d6ae-317d-40b1-b89a-40ddb64ac355.png)
 
 ## Instructions
-### Texture Analysis for UltraSound Images
+### Texture Analysis for Ultrasound Images
   Input:  
   
        id (str): Subject ID  
