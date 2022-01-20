@@ -1,7 +1,21 @@
 # Ultrasound Image Texture Analysis
-multiple texture analysis methods for ultrasound images in DICOM format.  
+Multiple texture analysis methods for ultrasound images in DICOM format. 
  
-![image](https://user-images.githubusercontent.com/45867828/134837833-ab34d6ae-317d-40b1-b89a-40ddb64ac355.png)
+<img src="https://user-images.githubusercontent.com/45867828/150411986-91ada0f6-42ff-43f6-bbf2-67e6ccef3089.png" width="500">
+
+### Citation
+If you find this repository useful in your research, please consider citing the paper.
+
+```
+@misc{rezazadeh2022explainable,
+      title={Explainable Ensemble Machine Learning for Breast Cancer Diagnosis based on Ultrasound Image Texture Features}, 
+      author={Alireza Rezazadeh and Yasamin Jafarian and Ali Kord},
+      year={2022},
+      eprint={2201.07227},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
 
 ## Instructions
 ### Texture Analysis for Ultrasound Images
